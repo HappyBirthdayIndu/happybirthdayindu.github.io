@@ -207,6 +207,8 @@ p, h1, h2, h3, h4, h5 {
 .author {
     text-align: center;
     font-size: 0.9rem;
+    color: #176B87;
+    font-weight: 500;
 }
 
 .special-text h2{
